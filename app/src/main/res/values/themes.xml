@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TemperatureConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <style name="Theme.TemperatureConverter" parent="Base.Theme.TemperatureConverter">
+    <item name="colorPrimary">#FF2600</item>
+    <item name="colorSecondary">#FFD0D0</item>
+    </style>
+</resources>

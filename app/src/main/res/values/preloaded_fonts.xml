@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="true">
+        <item>@font/aclonica</item>
+        <item>@font/baloo_bhaina</item>
+        <item>@font/inknut_antiqua_semibold</item>
+        <item>@font/lemon</item>
+        <item>@font/merriweather_sans_bold</item>
+    </array>
+</resources>
