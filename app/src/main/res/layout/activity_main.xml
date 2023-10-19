@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -18,12 +17,14 @@
         android:text="Temperature Converter"
         android:textColor="@color/black"
         android:textSize="25sp"
-        android:layout_marginTop="5dp"/>
+        android:layout_marginTop="5dp"
+        tools:ignore="HardcodedText" />
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:src="@drawable/temperature_pic"/>
+        android:src="@drawable/temperature_pic"
+        tools:ignore="ContentDescription,ImageContrastCheck" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -33,13 +34,15 @@
         android:gravity="center"
         android:layout_marginTop="5dp"
         android:layout_marginBottom="10dp">
+
         <Spinner
             android:id="@+id/spinner_first"
             android:layout_width="0dp"
             android:layout_height="48dp"
-            android:background="@drawable/spinner_background"
+            android:layout_margin="5dp"
             android:layout_weight="0.7"
-            android:layout_margin="5dp" />
+            android:background="@drawable/spinner_background"
+            tools:ignore="DuplicateSpeakableTextCheck" />
 
         <EditText
             android:id="@+id/et_input"
@@ -56,7 +59,8 @@
             android:textColor="@color/black"
             android:textColorHint="#7E7E7E"
             android:textSize="20sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            tools:ignore="Autofill,HardcodedText,VisualLintTextFieldSize" />
     </LinearLayout>
 
     <LinearLayout
@@ -99,6 +103,7 @@
         android:padding="5dp"
         android:text="Convert"
         android:textColor="#007D9C"
-        android:textSize="30dp" />
+        android:textSize="30sp"
+        tools:ignore="HardcodedText" />
 
 </LinearLayout>
