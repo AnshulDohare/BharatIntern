@@ -51,7 +51,7 @@
             android:layout_margin="5dp"
             android:layout_weight="1"
             android:background="@drawable/spinner_background"
-            android:fontFamily="@font/merriweather_sans_bold"
+            android:fontFamily="@font/heebo_bold"
             android:gravity="center"
             android:hint="Enter Temperature"
             android:inputType="numberDecimal"
