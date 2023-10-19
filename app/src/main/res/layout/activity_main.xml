@@ -51,7 +51,7 @@
             android:fontFamily="@font/merriweather_sans_bold"
             android:gravity="center"
             android:hint="Enter Temperature"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:maxLength="10"
             android:textColor="@color/black"
             android:textColorHint="#7E7E7E"
