@@ -17,17 +17,6 @@ The Temperature Converter Android App is a handy tool that allows users to easil
 - Error handling to prevent invalid input.
 - Accurate and reliable temperature conversions.
 
-⚙️Installation
-- To install the Temperature Converter Android App, follow these steps:
-
-1.Download the APK file from https://drive.google.com/file/d/1HuFnG_uEK3PmkY4bW-IGhrlRHnw_nZmC/view?usp=drive_link
-
-2.Enable app installation from unknown sources in your Android device's settings.
-
-3.Open the downloaded APK file to begin the installation.
-
-4.Follow the on-screen instructions to complete the installation process.
-
 💡Usage
 - Launch the app from your device's home screen.
 - Select the input temperature unit (e.g., Celsius, Fahrenheit, Kelvin, Rankine or Rumor) by tapping the dropdown.
