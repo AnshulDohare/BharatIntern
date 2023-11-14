@@ -25,4 +25,4 @@ The Temperature Converter Android App is a handy tool that allows users to easil
 - To convert to another unit, simply select it from the dropdown menu.
 
 📥Support
-If you encounter any issues or have questions about the Temperature Converter Android App, please contact anshuldohare6904@gmail.com 
+If you encounter any issues or have questions about the Temperature Converter Android App, feel free to connect on Linkedin - https://www.linkedin.com/in/anshuldohare/
